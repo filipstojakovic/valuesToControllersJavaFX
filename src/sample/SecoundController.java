@@ -1,4 +1,4 @@
-package cripto;
+package sample;
 
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;

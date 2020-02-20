@@ -1,4 +1,4 @@
-package cripto;
+package sample;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
